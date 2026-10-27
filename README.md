@@ -68,7 +68,7 @@ This is a **carpooling (ride-sharing) mobile application** designed to provide a
 Clone this repository by opening your terminal/CMD and change the current working directory to Desktop - use `cd Desktop` command.
 ```bash
     cd Desktop
-    git clone https://github.com/morikeli/TuShare.git
+    git clone https://github.com/georges-mars/TuShare.git
 ```
 2. Create a `.env` file and add the following environment variable.
 ```env
